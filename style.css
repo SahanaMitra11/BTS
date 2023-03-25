@@ -1,0 +1,78 @@
+body{
+text-align: center;
+background: linear-gradient(90deg,#DF98FA 25%, #9055FF 100%,#DF98FA 25%);
+}
+
+.ot7{
+border-style:solid;
+border-color:#190C29;
+border: 1px
+border-radius: 80px;
+padding: 5px;
+}
+
+h1{
+font-family: 'Rampart One', cursive;
+font-size: 3em;
+}
+h2{
+font-family: 'Rampart One', cursive;
+font-size: 2em;
+
+}
+
+h3{
+font-family: 'Signika', sans-serif;
+font-size: 2.6em;
+}
+
+h4{
+font-family: 'Katibeh', cursive;
+font-size: 3.6em
+}
+
+
+p{
+font-family: 'Patrick Hand', cursive;
+font-size: 0.7em;
+}
+
+
+.images{
+width: 700px;
+height: 500px;
+border-style:solid;
+border-color:#190C29;
+border: 1px
+border-radius: 80px;
+padding: 5px;
+//margin-right: 600px;
+}
+
+footer {
+background: #402565;
+color:  #fff;
+text-align: center;
+padding:0.01%;
+font-size: 1em;
+}
+
+hr.copyright{
+opacity:0.10;
+}
+
+.links a {
+ font-family: 'Patrick Hand', cursive;
+ color: pink
+;
+}
+
+.logo{
+height: 400px;
+width 300px
+}
+
+.Lightstick{
+height: 400px;
+width 300px
+}
